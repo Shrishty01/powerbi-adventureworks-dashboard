@@ -42,18 +42,3 @@ This project focuses on analyzing and visualizing business data from **Adventure
 
 ---
 
-## 📂 Project Structure
-powerbi-adventure-works/
-│
-├── data/                         # Folder containing raw CSV dataset files
-│   ├── Sales.csv
-│   ├── Products.csv
-│   └── Customers.csv
-│
-├── reports/                      # Power BI project file(s)
-│   └── AdventureWorks.pbix
-│
-├── screenshots/           ← Put your dashboard images here
-│   └── sales_dashboard.png
-|
-└── README.md                     # Project documentation (this file)
